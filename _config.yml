@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Enrico Civitelli"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "I was born in Arezzo, a small city located in the east of Tuscany, Italy. Since I was young I have found many scientific topics extremely interesting and fascinating. The interest concerning the Computer Science, arising during the High School in which I have mainly studied electronics and information technology, leads me to Computer Engineering classes at the University of Florence. Among the various topics that I have studied, Machine Learning was the one that I found most charming. As a matter of fact, I have decided to focus my Master Degree around this topic. Currently, I'm a PhD student in Florence under the supervision of Professor Schoen. I'm also collaborating in some external projects with Verizon Connect. Moving away from my academic studies, I love travelling and discovering new places as well as listening to music. I'm also a tennis amateur."
   location         : "Florence, Tuscany, Italy, Europe"
   email            : # "enrico.civitelli@unifi.it"
