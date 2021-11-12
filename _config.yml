@@ -104,13 +104,13 @@ analytics:
 author:
   name             : "Enrico Civitelli"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I was born in Arezzo, a small city located in the east of Tuscany, Italy. Since I was young I have found many scientific topics extremely interesting and fascinating. The interest concerning the Computer Science, arising during the High School in which I have mainly studied electronics and information technology, leads me to Computer Engineering classes at the University of Florence. Among the various topics that I have studied, Machine Learning was the one that I found most charming. As a matter of fact, I have decided to focus my Master Degree around this topic. Currently, I'm a PhD student in Florence under the supervision of Professor Schoen. I'm also collaborating in some external projects with Verizon Connect. Moving away from my academic studies, I love travelling and discovering new places as well as listening to music. I'm also a tennis amateur."
+  bio              : "I was born in Arezzo, a small city located in the east of Tuscany, Italy. Since I was young I have found many scientific topics extremely interesting and fascinating. The interest concerning the Computer Science, arising during the High School in which I have mainly studied electronics and information technology, leads me to Computer Engineering classes at the University of Florence. Among the various topics that I have studied, Machine Learning was the one that I found most charming. As a matter of fact, I have decided to focus my Master Degree around this topic. Currently, I'm a PhD student in Florence under the supervision of Professor Schoen. I'm also collaborating in some external projects with Verizon Connect. Moving away from my academic studies, I love travelling and discovering new places as well as listening to music. I'm also a tennis and runner amateur."
   location         : "Florence, Tuscany, Italy, Europe"
   email            : # "enrico.civitelli@unifi.it"
   links:
     - label: "enrico.civitelli@unifi.it"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:enrico.civitelli@unifi.it"
+      # url: "mailto:enrico.civitelli@unifi.it"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -122,38 +122,29 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/enricivi"
+      # url: "https://github.com/enricivi"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
-      url: "https://www.linkedin.com/in/enrico-civitelli-898a0314b/?locale=en_US"
+      # url: "https://www.linkedin.com/in/enrico-civitelli-898a0314b/?locale=en_US"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+    - label: "enrico.civitelli@unifi.it"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:enrico.civitelli@unifi.it"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/enricivi"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/enrico-civitelli-898a0314b/?locale=en_US"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/enricivi"
 
 
 # Reading Files
