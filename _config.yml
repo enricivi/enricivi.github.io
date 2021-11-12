@@ -143,7 +143,7 @@ footer:
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/enrico-civitelli-898a0314b/?locale=en_US"
     - label: "Instagram"
-      icon: "far fa-fw fa-instagram"
+      icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/enricivi"
 
 
