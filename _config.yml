@@ -133,8 +133,8 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "enrico.civitelli@unifi.it"
-      icon: "fas fa-fw fa-envelope"
+    - label: "Email"
+      icon: "far fa-fw fa-envelope"
       url: "mailto:enrico.civitelli@unifi.it"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -143,7 +143,7 @@ footer:
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/enrico-civitelli-898a0314b/?locale=en_US"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      icon: "far fa-fw fa-instagram"
       url: "https://www.instagram.com/enricivi"
 
 
